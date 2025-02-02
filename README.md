@@ -22,8 +22,8 @@ If you want to create multiple client instances, do this
 1. Go Projects -> Build & Run -> Run -> Add (in Run section) -> Select the project
 2. Run the instances simultaneously
 
-![pic](./docs/images/tcp-broker-setup.png)
-![pic](./docs/images/tcp-broker-run-multiple.png)
+![pic](./docs/images/tcp-broker-setup.jpg)
+![pic](./docs/images/tcp-broker-run-multiple.jpg)
 
 In the end you will get
 ![pic](./docs/images/tcp-broker-finished.jpg)
