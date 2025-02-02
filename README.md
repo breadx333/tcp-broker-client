@@ -1,4 +1,4 @@
-# TCP broker server
+# TCP broker client
 
 This is a client part of a TCP server project written in C++ using Qt framework.
 
