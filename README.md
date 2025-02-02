@@ -17,4 +17,4 @@ To run the app
 5. Start TCP server in the GUI by clicking the button
 
 In the end you will get
-![pic](./docs/images/tcp-broker-finished.png)
+![pic](./docs/images/tcp-broker-finished.jpg)
